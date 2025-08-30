@@ -1,11 +1,6 @@
 # CareTrack
-Java Swing based Hospital Information System backed by SQLite. Supports admin login to manage staff, patients, appointments, bills, and medical records, plus a patient view to see records/appointments. All data is persisted in hospital.db via the sqlite-jdbc driver on in memory storage.
 
-
-
-
-
-A simple desktop app that manages core hospital workflows with a friendly Swing UI and a lightweight SQLite database for persistence. It supports staff management, patient registry, billing, medical records, and appointments—everything saved to `hospital.db` so data survives restarts.
+A simple desktop app that manages core hospital workflows with a friendly Swing UI and a lightweight SQLite database for persistence. It supports staff management, patient registry, billing, medical records, and appointments everything saved to `hospital.db` so data survives restarts.
 
 ## What it does
 
