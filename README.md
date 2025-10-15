@@ -84,7 +84,7 @@ Hospital/
 │  └─ sqlite-jdbc-3.44.1.0.jar
 ├─ Database.java
 ├─ Hospitalsystem.java
-├─ (your domain classes: Employee.java, Doctor.java, Patient.java, Bill.java,
+├─ domain classes: Employee.java, Doctor.java, Patient.java, Bill.java,
 │    Customerbill.java, Supplierbill.java, Appointment.java, Medicalrecord.java, ...)
 └─ hospital.db  (generated at runtime)
 ```
